@@ -1,0 +1,17 @@
+{
+  "name": "3-html-ufo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server"
+  },
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  },
+  "devDependencies": {}
+}
